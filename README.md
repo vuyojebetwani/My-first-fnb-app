@@ -1,0 +1,2 @@
+# Virtual Wardrobe
+An augmented reality app that lets users upload pictures of their clothing items and virtualy try on outfits without physically changing . You can also upload pictures of clothes you want to buy and check if they match with any of your existing outfits. This App allows you to mark an outfit dirty if youve worn it already and it can help you identify clean clothes in your wardrobe.
